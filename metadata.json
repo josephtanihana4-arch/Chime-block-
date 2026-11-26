@@ -1,0 +1,6 @@
+{
+  "name": "VaultLock",
+  "description": "2-year savings lock and Chime/banking & Yahoo Mail app blocker with one-time-per-2-years PIN protection and anti-tamper safeguards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

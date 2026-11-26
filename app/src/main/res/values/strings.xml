@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VaultLock</string>
+    <string name="device_admin_label">VaultLock Protection Guard</string>
+    <string name="device_admin_description">Prevents unauthorized uninstallation or disabling of your 2-year banking and Yahoo Mail app lock without One-Time Administrator PIN verification.</string>
+    <string name="notification_channel_name">VaultLock Active Guard</string>
+    <string name="notification_channel_desc">Keeps real-time banking and Yahoo Mail blocking and anti-tamper monitoring active during your 2-year savings lock.</string>
+</resources>
